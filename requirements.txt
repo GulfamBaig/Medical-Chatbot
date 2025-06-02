@@ -1,0 +1,5 @@
+streamlit>=1.27.0
+langchain>=0.1.0
+langchain-huggingface
+requests>=2.31.0
+Pillow>=10.0.0
